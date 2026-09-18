@@ -12,6 +12,7 @@ Today, I explored the fundamentals of Pandas and learned about **DataFrames**, o
 * Python
 * Pandas
 * Google Colab
+* Jupyter Notebook
 
 ## 🎯 Topics I Practiced
 
